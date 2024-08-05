@@ -1,0 +1,22 @@
+[
+  { "id": "1", "name": "Sản phẩm 1", "image": "https://via.placeholder.com/150", "price": "100,000 VND" },
+  { "id": "2", "name": "Sản phẩm 2", "image": "https://via.placeholder.com/150", "price": "200,000 VND" },
+  { "id": "3", "name": "Sản phẩm 3", "image": "https://via.placeholder.com/150", "price": "300,000 VND" },
+  { "id": "4", "name": "Sản phẩm 4", "image": "https://via.placeholder.com/150", "price": "400,000 VND" },
+  { "id": "5", "name": "Sản phẩm 5", "image": "https://via.placeholder.com/150", "price": "500,000 VND" },
+  { "id": "6", "name": "Sản phẩm 6", "image": "https://via.placeholder.com/150", "price": "600,000 VND" },
+  { "id": "7", "name": "Sản phẩm 7", "image": "https://via.placeholder.com/150", "price": "700,000 VND" },
+  { "id": "8", "name": "Sản phẩm 8", "image": "https://via.placeholder.com/150", "price": "800,000 VND" },
+  { "id": "9", "name": "Sản phẩm 9", "image": "https://via.placeholder.com/150", "price": "900,000 VND" },
+  { "id": "10", "name": "Sản phẩm 10", "image": "https://via.placeholder.com/150", "price": "1,000,000 VND" },
+  { "id": "11", "name": "Sản phẩm 11", "image": "https://via.placeholder.com/150", "price": "1,100,000 VND" },
+  { "id": "12", "name": "Sản phẩm 12", "image": "https://via.placeholder.com/150", "price": "1,200,000 VND" },
+  { "id": "13", "name": "Sản phẩm 13", "image": "https://via.placeholder.com/150", "price": "1,300,000 VND" },
+  { "id": "14", "name": "Sản phẩm 14", "image": "https://via.placeholder.com/150", "price": "1,400,000 VND" },
+  { "id": "15", "name": "Sản phẩm 15", "image": "https://via.placeholder.com/150", "price": "1,500,000 VND" },
+  { "id": "16", "name": "Sản phẩm 16", "image": "https://via.placeholder.com/150", "price": "1,600,000 VND" },
+  { "id": "17", "name": "Sản phẩm 17", "image": "https://via.placeholder.com/150", "price": "1,700,000 VND" },
+  { "id": "18", "name": "Sản phẩm 18", "image": "https://via.placeholder.com/150", "price": "1,800,000 VND" },
+  { "id": "19", "name": "Sản phẩm 19", "image": "https://via.placeholder.com/150", "price": "1,900,000 VND" },
+  { "id": "20", "name": "Sản phẩm 20", "image": "https://via.placeholder.com/150", "price": "2,000,000 VND" }
+]
